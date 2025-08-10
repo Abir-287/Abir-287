@@ -9,7 +9,7 @@
 - 🛡️ Interested in cybersecurity within DevOps workflows
 - ✨ Driven to bridge development and operations for faster, more reliable delivery  
 
-- ✨ Let’s connect and turn ideas into reality!
+  ✨ Let’s connect and turn ideas into reality!
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abir-287&show_icons=true&theme=synthwave)
