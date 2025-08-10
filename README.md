@@ -1,15 +1,15 @@
 ## Hi, I'm Ben Nasr Abir 👋  
 
-🎓 Final-year Embedded Telecommunications Engineering student
-⚙️ Passionate about DevOps practices, automation, and CI/CD pipelines
-🐳 Hands-on experience with Docker and containerized applications
-☁️ Exploring cloud platforms and deployment strategies
-🌐 Skilled in web and mobile application development
-📡 Strong background in telecommunications and IoT systems
-🛡️ Interested in cybersecurity within DevOps workflows
-✨ Driven to bridge development and operations for faster, more reliable delivery  
+- 🎓 Final-year Embedded Telecommunications Engineering student
+- ⚙️ Passionate about DevOps practices, automation, and CI/CD pipelines
+- 🐳 Hands-on experience with Docker and containerized applications
+- ☁️ Exploring cloud platforms and deployment strategies
+- 🌐 Skilled in web and mobile application development
+- 📡 Strong background in telecommunications and IoT systems
+- 🛡️ Interested in cybersecurity within DevOps workflows
+- ✨ Driven to bridge development and operations for faster, more reliable delivery  
 
-✨ Let’s connect and turn ideas into reality!
+- ✨ Let’s connect and turn ideas into reality!
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abir-287&show_icons=true&theme=synthwave)
